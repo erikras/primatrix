@@ -3,3 +3,5 @@
 For which values of `x`? For which values of `n`?
 
 # [See Live](https://primatrix.erikras.now.sh/) 👀
+
+![Screenshot](public/og.jpg)
